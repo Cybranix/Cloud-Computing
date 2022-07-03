@@ -1,2 +1,12 @@
-## This repository id for setting up different components for your newly build VM.
-#### Your can install the basic and necessay components by using `start.sh` script file directly in your VM.
+# Welcome to VM_Initial_setup repository
+
+
+
+## Files
+
+Here we have different script files which you can use according to your need for your newly build VM.
+
+- `startup.sh`
+- `kubeadm_install.sh`
+- `create_cluster.sh`
+- `remove_cluster.sh`
